@@ -1,0 +1,100 @@
+334374 100.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+8877 100.000000 MG JUIZ DE FORA                                      ENGENHARIA ELETRICA           
+386522 100.000000 ES VITORIA                                           ENGENHARIA ELETRICA           
+433443 100.000000 BA SALVADOR                                          ENGENHARIA ELETRICA           
+130087 100.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+313261 100.000000 MG ITAJUBA                                           ENGENHARIA ELETRICA           
+222330 100.000000 ES VITORIA                                           ENGENHARIA ELETRICA           
+74445 100.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+295259 100.000000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+104703 100.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+11837 100.000000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+288353 100.000000 DF BRASILIA                                          ENGENHARIA CIVIL              
+109960 100.000000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+329394 100.000000 MG BELO HORIZONTE                                    ENGENHARIA ELETRICA           
+358837 100.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+34813 99.500000 RJ RIO DE JANEIRO                                    MATEMATICA                    
+195615 99.500000 SP SAO PAULO                                         MATEMATICA                    
+206632 99.400000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+4925 99.000000 PE RECIFE                                            ENGENHARIA CIVIL              
+419122 99.000000 CE FORTALEZA                                         ENGENHARIA CIVIL              
+106 99.000000 SP SAO PAULO                                         MATEMATICA                    
+91247 99.000000 SP SAO PAULO                                         MATEMATICA                    
+172174 99.000000 MS CAMPO GRANDE                                      ENGENHARIA CIVIL              
+394783 98.800000 MG JUIZ DE FORA                                      ENGENHARIA ELETRICA           
+141220 98.800000 DF BRASILIA                                          ENGENHARIA ELETRICA           
+442562 98.800000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+380065 98.800000 MG BELO HORIZONTE                                    ENGENHARIA ELETRICA           
+236276 98.300000 PE RECIFE                                            MATEMATICA                    
+332759 98.100000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+128155 98.100000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+275195 98.100000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+35110 98.100000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+413288 97.500000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+432864 97.500000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+365069 97.500000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+409632 97.500000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+68414 97.500000 RJ NITEROI                                           ENGENHARIA ELETRICA           
+90769 97.500000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+292374 97.500000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+177009 97.000000 PR CURITIBA                                          ENGENHARIA CIVIL              
+297281 97.000000 SP SAO CARLOS                                        ENGENHARIA MECANICA           
+362944 97.000000 PE RECIFE                                            MATEMATICA                    
+235008 96.900000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+408589 96.900000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+337021 96.900000 MG BELO HORIZONTE                                    ENGENHARIA ELETRICA           
+58332 96.900000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+347969 96.900000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+307849 96.900000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+130651 96.900000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+43395 96.900000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+387291 96.900000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+361916 96.900000 MG BELO HORIZONTE                                    ENGENHARIA ELETRICA           
+249947 96.300000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+29758 96.300000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+448537 96.300000 DF BRASILIA                                          ENGENHARIA ELETRICA           
+408386 96.300000 CE FORTALEZA                                         HISTORIA                      
+317134 96.300000 SP SANTOS                                            HISTORIA                      
+461735 96.300000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+367194 96.300000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+139899 96.300000 SP SAO BERNARDO DO CAMPO                             ENGENHARIA ELETRICA           
+35713 96.300000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+48156 96.300000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+45315 96.000000 MG BELO HORIZONTE                                    ENGENHARIA CIVIL              
+83532 95.600000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+183885 95.600000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+73686 95.600000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+242387 95.600000 PR CURITIBA                                          ENGENHARIA ELETRICA           
+324775 95.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+53300 95.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+380272 95.000000 RS PORTO ALEGRE                                      ENGENHARIA CIVIL              
+164039 95.000000 SP CAMPINAS                                          ENGENHARIA ELETRICA           
+228325 95.000000 SP SAO PAULO                                         HISTORIA                      
+71539 95.000000 RS PORTO ALEGRE                                      ENGENHARIA ELETRICA           
+423643 95.000000 SP ILHA SOLTEIRA                                     ENGENHARIA ELETRICA           
+80294 95.000000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+140783 95.000000 ES VITORIA                                           ENGENHARIA ELETRICA           
+259056 95.000000 ES VITORIA                                           ENGENHARIA ELETRICA           
+64532 95.000000 SP PIRACICABA                                        HISTORIA                      
+424380 95.000000 SP SAO PAULO                                         HISTORIA                      
+55169 95.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+123990 95.000000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+377348 95.000000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+203281 95.000000 SP ILHA SOLTEIRA                                     ENGENHARIA ELETRICA           
+141172 94.800000 RS PORTO ALEGRE                                      QUIMICA                       
+84781 94.400000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+56465 94.400000 MG JUIZ DE FORA                                      ENGENHARIA ELETRICA           
+439985 94.400000 BA SALVADOR                                          ENGENHARIA ELETRICA           
+53247 94.400000 SP SAO PAULO                                         ENGENHARIA ELETRICA           
+152687 94.400000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+97212 94.400000 SP SAO JOSE DOS CAMPOS                               ENGENHARIA ELETRICA           
+238352 94.000000 DF BRASILIA                                          ENGENHARIA CIVIL              
+121216 94.000000 MG BELO HORIZONTE                                    ENGENHARIA MECANICA           
+177876 94.000000 SE SAO CRISTOVAO                                     ENGENHARIA CIVIL              
+338606 94.000000 RJ RIO DE JANEIRO                                    ENGENHARIA CIVIL              
+322027 94.000000 SP BAURU                                             ENGENHARIA CIVIL              
+232149 94.000000 PR CASCAVEL                                          ENGENHARIA CIVIL              
+202236 93.800000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
+143444 93.800000 MG BELO HORIZONTE                                    ENGENHARIA ELETRICA           
+226724 93.800000 PR CURITIBA                                          ENGENHARIA ELETRICA           
+250324 93.800000 RJ RIO DE JANEIRO                                    ENGENHARIA ELETRICA           
